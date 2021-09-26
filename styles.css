@@ -70,7 +70,7 @@ h2{
 .cloud01{
   position: absolute;
   right: 200px;
-  top: 50px;
+  top: 100px;
 }
 
 .cloud02{
@@ -98,7 +98,8 @@ h2{
   line-height: 2;
   position: absolute;
   margin-top: 15.2%;
-
+  width: 15%;
+  text-align: center;
 }
 
 .skill-row{
