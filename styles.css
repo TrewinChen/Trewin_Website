@@ -58,9 +58,13 @@ body{
 
 h2{
   color: #14279B;
-  padding-bottom: 10px;
+  padding-bottom: 30px;
 /*  font-family: 'Sacramento', cursive;
 */
+}
+
+.profilepic{
+  border-radius: 50%;
 }
 
 .cloud01{
